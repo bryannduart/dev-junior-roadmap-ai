@@ -75,11 +75,13 @@ Durante o processo, alguns pontos importantes ficaram claros:
 
 ---
 
-## 🧠 Mapa Mental
+## 🧠 Mapa Mental do Roadmap
 
 O conhecimento foi consolidado em um mapa mental visual:
 
-![Mapa Mental](./assets/mapa-mental.png)
+![Mapa Mental 1](./assets/mapa-mental-1.png)
+![Mapa Mental 2](./assets/mapa-mental-2.png)
+![Mapa Mental 3](./assets/mapa-mental-3.png)
 
 Esse mapa organiza:
 - Fundamentos
@@ -89,12 +91,12 @@ Esse mapa organiza:
 
 ---
 
-## 🎤 Apresentação (Slides)
+## 📊 Apresentação (Slides)
 
-Também foi criada uma apresentação para facilitar a visualização do roadmap:
+Também foi criada uma apresentação para facilitar a visualização do roadmap, explicando conceitos e estratégia de evolução.
 
 📄 **Slides:**  
-`./assets/slides.pdf`
+📥 [Baixar Slides em PDF](./assets/dev-junior-roadmap-ai.pd
 
 Conteúdo dos slides:
 - Jornada do desenvolvedor

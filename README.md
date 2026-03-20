@@ -19,7 +19,7 @@ Criar um sistema de aprendizado que permita:
 
 ## 🧠 Acesse o NotebookLM
 
-👉 **Link do projeto interativo:**  
+👉 **Explore o ambiente interativo com IA:**
 https://notebooklm.google.com/notebook/bf3757db-32ae-4916-881d-882843317fa5
 
 No notebook você encontrará:
@@ -147,7 +147,22 @@ Conteúdo dos slides:
 
 ---
 
-## 🏆 Conclusão
+## 💡 Diferencial do Projeto
+
+Este projeto vai além de um roadmap tradicional.
+
+Ele demonstra:
+
+- Uso estratégico de Inteligência Artificial no aprendizado
+- Construção de um sistema estruturado de estudos
+- Curadoria de fontes de alta qualidade
+- Organização do conhecimento em formatos visuais e práticos
+
+Ao invés de apenas consumir conteúdo, o projeto transforma informação em ação.
+
+---
+
+## 🏁 Conclusão
 
 Este projeto demonstra não apenas o aprendizado técnico, mas também:
 

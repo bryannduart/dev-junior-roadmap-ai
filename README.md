@@ -1,4 +1,4 @@
-# 🚀 Dev Junior Roadmap with AI
+# 🚀 Roadmap para Desenvolvedor Júnior com IA
 
 Este projeto apresenta um **mapa de estudos prático para se tornar um desenvolvedor júnior**, utilizando Inteligência Artificial como ferramenta de apoio no aprendizado.
 

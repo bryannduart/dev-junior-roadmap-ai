@@ -96,7 +96,7 @@ Esse mapa organiza:
 Também foi criada uma apresentação para facilitar a visualização do roadmap, explicando conceitos e estratégia de evolução.
 
 📄 **Slides:**  
-📥 [Baixar Slides em PDF](./assets/dev-junior-roadmap-ai.pdf)
+📥 [Baixar Slides em PDF](./assets/slides-dev-junior-roadmap.pdf)
 
 Conteúdo dos slides:
 - Jornada do desenvolvedor

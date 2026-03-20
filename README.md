@@ -186,6 +186,12 @@ Mais do que um guia, este é um **sistema de evolução contínua** para quem de
 
 ---
 
+## ⭐ Se este projeto te ajudou
+
+Considere dar uma estrela no repositório para apoiar o projeto.
+
+---
+
 ## 📌 Autor
 
 **Bryan Duarte**  

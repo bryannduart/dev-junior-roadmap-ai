@@ -19,8 +19,9 @@ Criar um sistema de aprendizado que permita:
 
 ## 🧠 Acesse o NotebookLM
 
-👉 **Explore o ambiente interativo com IA:**
-https://notebooklm.google.com/notebook/bf3757db-32ae-4916-881d-882843317fa5
+👉 **Explore o ambiente interativo com IA e todo o conteúdo estruturado do projeto:**
+
+🔗 [Abrir NotebookLM](https://notebooklm.google.com/notebook/bf3757db-32ae-4916-881d-882843317fa5)
 
 No notebook você encontrará:
 - Fontes selecionadas
@@ -144,6 +145,16 @@ Conteúdo dos slides:
 - Conseguir a primeira vaga como desenvolvedor júnior  
 - Ter um portfólio com projetos reais  
 - Ser capaz de construir aplicações completas  
+
+---
+
+## ▶️ Como utilizar este roadmap
+
+1. Acesse o NotebookLM
+2. Explore as fontes
+3. Utilize os prompts sugeridos
+4. Siga o plano prático
+5. Construa projetos ao longo do caminho
 
 ---
 
